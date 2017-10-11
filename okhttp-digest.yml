@@ -1,0 +1,13 @@
+- artifact: com.burgstaller:okhttp-digest:+
+  name: okhttp-digest
+  copyrightHolder: #COPYRIGHT_HOLDER#
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://github.com/rburgst/okhttp-digest
+  notice: |
+    The following NOTICEs are pertain to software distributed with this project.
+
+
+    Apache HttpComponents HttpClient
+    Copyright 1999-2011 The Apache Software Foundation
+  year: 2015
