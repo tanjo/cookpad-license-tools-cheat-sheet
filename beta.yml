@@ -1,0 +1,6 @@
+- artifact: com.crashlytics.sdk.android:beta:+
+  name: Android SDK for Beta
+  copyrightHolder: Google Inc.
+  license: Crashlytics Terms of Service
+  licenseUrl: http://try.crashlytics.com/terms/terms-of-service.pdf
+  skip: true

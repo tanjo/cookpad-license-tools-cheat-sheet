@@ -1,0 +1,6 @@
+- artifact: com.crashlytics.sdk.android:answers:+
+  name: Android SDK Answers
+  copyrightHolder: Google Inc.
+  license: Answers Terms of Service
+  licenseUrl: https://answers.io/terms
+  skip: true

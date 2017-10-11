@@ -1,0 +1,5 @@
+- artifact: io.fabric.sdk.android:fabric:+
+  name: Android SDK Fabric
+  copyrightHolder: Google Inc.
+  license: Fabric Software and Services Agreement
+  licenseUrl: https://fabric.io/terms
