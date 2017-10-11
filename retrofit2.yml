@@ -1,4 +1,4 @@
-- artifact: com.squareup.okhttp3:okhttp:+
+- artifact: com.squareup.okhttp3:+:+
   name: OkHttp
   copyrightHolder: Square, Inc.
   license: The Apache Software License, Version 2.0
