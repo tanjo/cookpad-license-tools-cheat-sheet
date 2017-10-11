@@ -1,6 +1,6 @@
 - artifact: com.burgstaller:okhttp-digest:+
   name: okhttp-digest
-  copyrightHolder: #COPYRIGHT_HOLDER#
+  copyrightHolder: rburgst
   license: The Apache Software License, Version 2.0
   licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
   url: https://github.com/rburgst/okhttp-digest
