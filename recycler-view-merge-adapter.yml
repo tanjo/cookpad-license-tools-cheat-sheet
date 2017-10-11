@@ -1,0 +1,7 @@
+- artifact: me.mvdw.recyclerviewmergeadapter:recyclerviewmergeadapter:+
+  name: A merge adapter for the RecyclerView
+  copyrightHolder: martijnvdwoude
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://github.com/martijnvdwoude/recycler-view-merge-adapter
+  year: 2015
