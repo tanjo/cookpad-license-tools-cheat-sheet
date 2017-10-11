@@ -1,0 +1,7 @@
+- artifact: com.jakewharton.rxbinding2:+:+
+  name: RxBinding
+  copyrightHolder: Jake Wharton
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://github.com/JakeWharton/RxBinding/
+  year: 2015
