@@ -1,0 +1,6 @@
+- artifact: com.google.android.gms:+:+
+  name: Google Play Services
+  copyrightHolder: Google Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+  skip: true
