@@ -5,6 +5,7 @@
   licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
   url: https://github.com/JakeWharton/butterknife/
   year: 2013
+  skip: true
 - artifact: com.jakewharton:butterknife:+
   name: Butterknife
   copyrightHolder: Jake Wharton
