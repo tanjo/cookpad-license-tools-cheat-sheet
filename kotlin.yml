@@ -1,0 +1,14 @@
+# Kotlin
+- artifact: org.jetbrains.kotlin:+:+
+  name: Kotlin
+  copyrightHolder: Kotlin Team (JetBrains s.r.o.)
+  license: The Apache License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://kotlinlang.org/
+  year: 2010-2017
+- artifact: org.jetbrains:annotations:+
+  name: IntelliJ IDEA Annotations
+  copyrightHolder: JetBrains Team
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://www.jetbrains.org
