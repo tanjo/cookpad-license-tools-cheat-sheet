@@ -17,6 +17,7 @@ https://github.com/cookpad/license-tools-plugin
 - [Fabric](https://fabric.io/)
 - [Firebase](https://firebase.google.com/)
 - [google/gson](https://github.com/google/gson)
+- [Kotlin Programming Language](https://kotlinlang.org/)
 - [rburgst/okhttp\-digest](https://github.com/rburgst/okhttp-digest)
 - [square/phrase](https://github.com/square/phrase/)
 - [Picasso](http://square.github.io/picasso/)
