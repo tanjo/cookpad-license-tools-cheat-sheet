@@ -6,7 +6,11 @@ Cookpad のライセンスツールの修正が面倒なので利用頻度の高
 
 ライセンス管理がめちゃくちゃ楽になる（はず）のライブラリ
 
-https://github.com/cookpad/license-tools-plugin
+<del>https://github.com/cookpad/license-tools-plugin</del>
+
+[license\-tools\-pluginの移行に関するお知らせ \- クックパッド開発者ブログ](https://techlife.cookpad.com/entry/2020/01/16/090000) に記載があるとおり移行するようです
+
+https://github.com/cookpad/LicenseToolsPlugin
 
 ## ライブラリ一覧
 
